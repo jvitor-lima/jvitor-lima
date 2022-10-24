@@ -2,9 +2,6 @@
 <h3 align="center">Information Systems student at UFRPE</h3>
 
 - 🔭 I’m currently working on [Life CTI](https://github.com/lifecti)
-
-- 👨‍💻 All of my projects are available at [https://github.com/jvitor-lima](https://github.com/jvitor-lima)
-
 - 📫 How to reach me **josevitoroff@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
